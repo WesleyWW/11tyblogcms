@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post.hbs
 title: A New Blog Post
 date: 2022-03-11T02:53:20.361Z
 thumbnail: /images/uploads/screen-shot-2022-01-14-at-2.27.50-pm.png
